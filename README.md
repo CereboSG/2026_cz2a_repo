@@ -12,14 +12,14 @@ Welcome to **Materials for NJCCZ Students**! This repository is designed to stor
 ---
 
 ## List of Software Used
-The minimum software required are:
-- Python IDLE 3.7.7
-- Flask & other modules 2.2.5
-- PyMongo 4.6.1
-- Jupyter Notebook 6.5.6
-- DB Browser for SQLite 3.10.1
-- Notepad++ 7.5.4
-- MongoDB Community Server 3.4.9
+1. Python 3.13.7, with:
+   -  Flask 3.1.2
+   -  JupyterLab 4.4.9
+   -  Scikit-learn 1.7.2
+   -  Matplotlib 3.10.6
+   -  Pandas 2.3.3
+2. DB Browser for SQLite 3.10.1
+3. Notepad++ 7.5.4
 
 ## Using Github Codespaces 
 A Github codespace is a development environment that's hosted in the cloud. It has an Visual Studio Code IDE like interface that makes programming easier and more efficient. 
