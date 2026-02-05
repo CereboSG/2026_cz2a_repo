@@ -5,11 +5,17 @@ Welcome to **Materials for NJCCZ Students**! This repository is designed to stor
 ---
 
 ## Table of Contents
-
+- [Submiting your solutions](#submitting-your-solutions)
 - [List of Software Used](#list-of-software-used)
 - [Using Github Codespaces](#using-github-codespaces)
 
 ---
+## Submitting your solutions
+ - forked this repo to your own githib account
+ - Optional: create a branch
+ - worked on your solutions
+ - to submit your jupyter notebook solutions, create a Pull Request (PR) with the keyword "Submit" (not case sensitive) in the **tite**. All modified files will be submitted.
+![](PR_submit.png)
 
 ## List of Software Used
 1. Python 3.13.7, with:
