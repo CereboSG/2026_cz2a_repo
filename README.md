@@ -12,9 +12,10 @@ Welcome to **Materials for NJCCZ Students**! This repository is designed to stor
 ---
 ## Submitting your solutions
  - forked this repo to your own githib account
- - Optional: create a branch
- - worked on your solutions
- - to submit your jupyter notebook solutions, create a Pull Request (PR) with the keyword "Submit" (not case sensitive) in the **tite**. All modified files will be submitted.
+ - Optional: create a branch in your forked repo
+ - worked on your solutions in your own repo
+ - Sync fork to get changes pushed to your fork
+ - to submit your jupyter notebook solutions to the source repo, create a Pull Request (PR) with the keyword "Submit" (not case sensitive) in the **tite**. All modified files will be submitted.
 ![](PR_submit.png)
 
 ## List of Software Used
