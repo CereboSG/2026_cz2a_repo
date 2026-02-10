@@ -9,6 +9,7 @@ To activate the workflow, **both** of the following must be true:
 2. The pull request title contains the word "submit" (case-insensitive).
 
 If either condition is not met, the workflow will be skipped.
+  - If you want to submit a Pull Request using the standard workflow include "PR" in the title
 
 ## How to Trigger the Workflow
 1. **Fork the repository** to your own GitHub account.
