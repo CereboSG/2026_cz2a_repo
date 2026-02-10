@@ -4,12 +4,12 @@
 This repository includes an automated workflow, defined in `.github/workflows/submit_pr.yml`, that processes student submissions by copying files into the `Submit` branch and closing the pull request. The workflow only runs under strict conditions to keep the main repository clean while archiving each submission snapshot.
 
 ## Trigger Conditions
-To activate the workflow, **both** of the following must be true:
+To activate this workflow, **both** of the following must be true:
 1. The pull request originates from a fork of this repository.
 2. The pull request title contains the word "submit" (case-insensitive).
 
-If either condition is not met, the workflow will be skipped.
-  - If you want to submit a Pull Request using the standard workflow include "PR" in the title
+If either condition is not met, this workflow will be skipped.
+  - If you want to submit a Pull Request using the standard workflow include "PR"(case-insensitive) in the title otherwise the PR will be closed.
 
 ## How to Trigger the Workflow
 1. **Fork the repository** to your own GitHub account.
